@@ -5,7 +5,7 @@ import React from 'react';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>My name is Gabriel </Text>
+      <Text style={styles.text}>My name is Gabriel </Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -19,5 +19,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     
   },
-
+  text: {
+    fontSize: 24, // Increase the font size to 24
+  },
 });
