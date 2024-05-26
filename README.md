@@ -16,3 +16,4 @@ task 4 was confused at some point tho caused it wasn't working it involved addin
 
 Conclusion: 
 Creating or deploying your react native project is quiet exciting 
+![Screenshot 2024-05-26 192240](https://github.com/Gabby-OG/rn-assignment2-11222970/assets/148434566/2e3b21cc-a263-4313-8fcf-291c0b838cd2)
